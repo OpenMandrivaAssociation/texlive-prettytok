@@ -1,6 +1,6 @@
 Name:		texlive-prettytok
-Version:	63842
-Release:	2
+Version:	66884
+Release:	1
 Summary:	Pretty-print token lists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/prettytok
